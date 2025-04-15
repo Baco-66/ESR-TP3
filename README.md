@@ -1,4 +1,4 @@
-# OTT Multimedia Streaming System
+# On-Demand and Real-Time Audio/Video Streaming
 
 A networked system for on-demand and real-time audio/video streaming using an overlay-based architecture. Developed as part of the "Network Service Engineering" course at the University of Minho.
 
